@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "A Life of Walt Disney"
-date:   2014-12-15 01:00:00
+title:  "Doggy Photoshoot"
+date:   2017-3-26 01:00:00
 last_modified_at:  2014-12-15 01:00:00
-excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."
-categories: history
-tags:  disney
+excerpt: "Mutts can be models, too. I lived with a lovely little dog named Ada (after Ada Lovelace) in Santa Cruz..."
+categories: photography
+tags:  photography santa cruz
 image:
-  feature: walt-disney.jpg
+  feature: ada.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
