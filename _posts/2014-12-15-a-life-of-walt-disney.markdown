@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Doggy Photoshoot"
+title:  "Startup life at CleanRobotics"
 date:   2017-3-26 01:00:00
-last_modified_at:  2014-12-15 01:00:00
-excerpt: "Mutts can be models, too. I lived with a lovely little dog named Ada (after Ada Lovelace) in Santa Cruz..."
-categories: photography
-tags:  photography santa cruz
+last_modified_at:  2018-2-18 01:00:00
+excerpt: "Recycling is hard. Is this coffee cup recyclable? Should I toss this plastic food box or recycle it?"
+categories: work
+tags:  jobs cleanrobotics operations
 image:
   feature: ada.jpg
   topPosition: 0px
@@ -13,17 +13,12 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
-
-Walter Elias "Walt" Disney (/ˈdɪzni/; December 5, 1901 – December 15, 1966) was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent figure within the American animation industry and throughout the world, he is regarded as a cultural icon, known for his influence and contributions to entertainment during the 20th century. As a Hollywood business mogul, he and his brother Roy O. Disney co-founded The Walt Disney Company.
-
-<blockquote class="largeQuote">“All our dreams can come true, if we have the courage to pursue them.” - Walt Disney</blockquote>
 
 As an animator and entrepreneur, Disney was particularly noted as a filmmaker and a popular showman, as well as an innovator in animation and theme park design. He and his staff created numerous famous fictional characters including Mickey Mouse, Donald Duck, and Goofy. Disney himself was the original voice for Mickey. During his lifetime, he won 22 Academy Awards and received four honorary Academy Awards from a total of 59 nominations, including a record of four in one year, giving him more Oscar awards and nominations than any other individual in history.
 
 Disney died from lung cancer on December 15, 1966, in Burbank, California. He left behind a vast legacy, including numerous animated shorts and feature films produced during his lifetime; the company, parks, and animation studio that bear his name; and the California Institute of the Arts (CalArts).
 
-#### Childhood
+#### Operations
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
 
@@ -33,8 +28,9 @@ In 1878 Disney's father, Elias Charles Disney, had moved from Huron County, Onta
 
 <blockquote class="u--startsWithDoubleQuote">“Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.” <br/>- Walt Disney</blockquote>
 
-#### Teenage years
+#### Marketing
 
 In 1917 Elias acquired shares in the O-Zell jelly factory in Chicago and moved his family back to the city.[24] In the fall Disney began his freshman year at McKinley High School and took night courses at the Chicago Academy of Fine Arts under the tutelage of artist and educator Louis Grell (1887–1960). He became the cartoonist for the school newspaper, drawing patriotic topics on World War I. With a hope to join the army, Disney dropped out of high school at the age of sixteen, but was rejected for being under-age.[26] Afterwards, Disney and a friend joined the Red Cross.[27] He was soon sent to France for a year, where he drove an ambulance, but only after the armistice was signed on November 11, 1918.
 
 <p class="u--startsWithDoubleQuote">“Hoping to find work outside the Chicago O-Zell factory, Walt moved back to Kansas City in 1919 to begin his artistic career.” He considered becoming an actor, but decided to draw political caricatures or comic strips for a newspaper. When nobody wanted to hire him as either an artist or as an ambulance driver, his brother Roy, then working in a local bank, got Walt a temporary job through a bank colleague at the Pesmen-Rubin Art Studio, where he created advertisements for newspapers, magazines, and movie theaters. At Pesmen-Rubin he met cartoonist Ubbe Iwerks and, when their time at the studio expired, they decided to start their own commercial company together.</p>
+
