@@ -7,7 +7,7 @@ excerpt: "Recycling is hard. Is this coffee cup recyclable? Should I toss this p
 categories: work
 tags:  jobs cleanrobotics operations
 image:
-  feature: ada.jpg
+  feature: trashbots.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
