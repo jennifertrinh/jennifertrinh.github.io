@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Television and later films"
-date:   2018-02-19 18:00:00
+date:   2017-01-01 18:00:00
 excerpt: "There aren't as many women in STEM, but there are a ton of ways to try to address that."
 categories: outreach
 tags:  women in stem girls outreach

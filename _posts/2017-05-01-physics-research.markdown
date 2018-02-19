@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Physics Research"
-date:   2018-02-19 18:00:00
-last_modified_at:  2018-02-19 18:00:00
+date:   2017-05-01 18:00:00
+last_modified_at:  2017-05-01 18:00:00
 excerpt: "I've been on the physics track since the age of 13, and I've done some really fun research along the way."
 categories: research
 tags:  graduate research ucsc physics condensed matter
