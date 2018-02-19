@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Startup life at CleanRobotics"
-date:   2017-3-26 01:00:00
-last_modified_at:  2018-2-18 01:00:00
+title:  "Directing Operations at CleanRobotics"
+date:   2018-2-19 18:00:00
+last_modified_at:  2018-2-19 18:00:00
 excerpt: "Recycling is hard. Is this coffee cup recyclable? Should I toss this plastic food box?"
 categories: work
 tags:  jobs cleanrobotics operations
