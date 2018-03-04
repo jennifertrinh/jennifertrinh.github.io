@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Women in STEM"
+title:  "Empowering Women in STEM"
 date:   2017-01-01 18:00:00
 excerpt: "There aren't as many women in STEM, but there are a ton of ways to try to address that."
 categories: outreach
 tags:  women in stem girls outreach
 image:
-  feature: outreach.jpg
+  feature: women.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
