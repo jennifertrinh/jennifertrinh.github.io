@@ -16,3 +16,5 @@ syntaxHighlighter: no
 I can't swim. Swarthmore College requires its students to pass a swim test in order to graduate, but I got away with taking a swim class instead, and barely learning how to swim one length of the pool before drowning. Despite this, I love being on the water. There's nothing quite like being propelled across the water and into the horizon, wind in your hair, sun on your face. 
 
 One winter, when I was looking for an externship experience through Swarthmore College, I heard that there was an opportunity to help an alumnus build a boat in Philadelphia. I jumped on it immediately.
+
+https://eatonbatsonboatbuilding.wordpress.com/page/2/
