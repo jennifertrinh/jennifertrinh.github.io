@@ -2150,22 +2150,6 @@ body {
   background-image: url(../images/linkedin--black.svg);
 }
 
-.socialAccount--dribbble {
-  background-image: url(../images/dribbble--black.svg);
-}
-
-.socialAccount--pinterest {
-  background-image: url(../images/pinterest--black.svg);
-}
-
-.socialAccount--kiva {
-  background-image: url(../images/kiva--black.svg);
-}
-
-.socialAccount--rss {
-  background-image: url(../images/rss--black.svg);
-}
-
 .section--last {
   position: relative;
   clear: both;
