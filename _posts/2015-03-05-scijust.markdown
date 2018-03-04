@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Exploring the Meaning of Justice"
+date:   2015-03-05 01:00:00
+excerpt: "UCSC had a Science and Justice group that brought together folks from across the academic spectrum to discuss how questions of justice manifest in their fields."
+categories: ucsc 
+tags:  ucsc grad school scijust science justice
+image:
+  feature: filmfest.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+SciJust!

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "History, homes, and hope in Cambodia"
+date:   2007-06-01 01:00:00
+excerpt: "My parents were born in Cambodia, just in time to live through some of the worst years of Cambodian history."
+categories: outreach
+tags:  cambodia history family roots
+image:
+  feature: housebuilding.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Before the Khmer Rouge took power, my parents, as children, each led peaceful lives. Their families were poor, with my mom living in the Cambodian countryside and my dad in the capital of Phnom Penh, but they each had fond memories of family, friends, and fun. I grew up with their stories of catching fish and crabs bare-handed, or tending water buffalo and picking leeches off their legs. My dad had a dog that faithfully barked whenever anyone approached. My mom used to steal rice by poking holes in giant sacks of it and siphoning off just enough so that no one would notice. They told me these stories with smiles on their faces, clearly enjoying reliving their childhood adventures. But I also grew up hearing stories of tragedy, heartbreak, and survival, something all people who were in Cambodia in the 70s can relate to.
+
+My grandfather, aunt, and uncle starved to death. Another uncle was likely killed by the Khmer Rouge, after he was caught sneaking about late at night, trying to bring food to my aunt. They suffered through days of unnecessary cruelty; of eating nothing but water with a few grains of rice; of starting work before dawn in the rice fields and forests, and ending well after sundown; and of constantly being surrounded by illness and death. 

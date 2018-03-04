@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Farming"
+date:   2011-06-01 01:00:00
+excerpt: "The summer between undergrad and grad school, I decided to take some time away from physics and get my hands dirty."
+categories: history
+tags:  mickey
+image:
+  feature: farming.jpg
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Ever since high school, I've wanted to be a farmer. Think of the appeal: everyday, you wake up early, work in the sun, and go to bed after a hard day's productive labor, cultivating delicious things. I love sun, I love food, and I love physical labor -- sounds like a dream job! Unfortunately, it's actually very difficult to make a sustainable living being a farmer. I lucked out in that I was given the opportunity to try my hand at it for a summer on a beautiful little farm on the Chesapeake Bay.
+

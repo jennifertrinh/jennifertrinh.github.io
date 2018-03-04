@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Directing Operations at CleanRobotics"
-date:   2018-2-19 18:00:00
+title:  "Directing Operations in the Startup World"
+date:   2018-3-4 18:00:00
 last_modified_at:  2018-2-19 18:00:00
 excerpt: "Recycling is hard. Is this coffee cup recyclable? Should I toss this plastic food box?"
 categories: work
