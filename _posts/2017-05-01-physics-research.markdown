@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Physics Research"
+title:  "Planets, Solar Cells, and Quantum Materials"
 date:   2017-05-01 18:00:00
 last_modified_at:  2017-05-01 18:00:00
 excerpt: "I've been on the physics track since the age of 13, and I've done some really fun research along the way."
