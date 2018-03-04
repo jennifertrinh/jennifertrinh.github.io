@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "History, homes, and hope in Cambodia"
+title:  "History, Homes, and Hope in Cambodia"
 date:   2007-06-01 01:00:00
 excerpt: "My parents were born in Cambodia, just in time to live through some of the worst years of Cambodian history."
 categories: outreach

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Farming"
+title:  "Sustainable Farming and Healthy Communities"
 date:   2011-06-01 01:00:00
 excerpt: "The summer between undergrad and grad school, I decided to take some time away from physics and get my hands dirty."
 categories: history
